@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|c:\\users\\admin\\onedrive\\desktop\\fpt\\cn7\\1_prn221\\assignment\\lainguyenminhquan_net1701_a01\\lainguyenminhquanwpf\\editroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\editroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\lainguyenminhquanwpf\\editroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\editroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|c:\\users\\admin\\onedrive\\desktop\\fpt\\cn7\\1_prn221\\assignment\\lainguyenminhquan_net1701_a01\\lainguyenminhquanwpf\\editcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\editcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|c:\\users\\admin\\onedrive\\desktop\\fpt\\cn7\\1_prn221\\assignment\\lainguyenminhquan_net1701_a01\\lainguyenminhquanwpf\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|c:\\users\\admin\\onedrive\\desktop\\fpt\\cn7\\1_prn221\\assignment\\lainguyenminhquan_net1701_a01\\lainguyenminhquanwpf\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|c:\\users\\admin\\onedrive\\desktop\\fpt\\cn7\\1_prn221\\assignment\\lainguyenminhquan_net1701_a01\\lainguyenminhquanwpf\\editcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\editcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC64FB0-682A-4184-91E1-046E0795936D}|BusinessObject\\BusinessObjects.csproj|c:\\users\\admin\\onedrive\\desktop\\fpt\\cn7\\1_prn221\\assignment\\lainguyenminhquan_net1701_a01\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CC64FB0-682A-4184-91E1-046E0795936D}|BusinessObject\\BusinessObjects.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\lainguyenminhquanwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC64FB0-682A-4184-91E1-046E0795936D}|BusinessObject\\BusinessObjects.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\businessobject\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC64FB0-682A-4184-91E1-046E0795936D}|BusinessObject\\BusinessObjects.csproj|solutionrelative:businessobject\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\lainguyenminhquanwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC64FB0-682A-4184-91E1-046E0795936D}|BusinessObject\\BusinessObjects.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC64FB0-682A-4184-91E1-046E0795936D}|BusinessObject\\BusinessObjects.csproj|solutionrelative:businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\lainguyenminhquanwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A725930-7747-4F55-8EAA-2B2593411381}|LaiNguyenMinhQuanWPF\\LaiNguyenMinhQuanWPF.csproj|solutionrelative:lainguyenminhquanwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditRoomWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\EditRoomWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditRoomWindow.xaml.cs",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\EditRoomWindow.xaml.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwGoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:03:16.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditProfileWindow.xaml",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\EditProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditProfileWindow.xaml",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\EditProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T01:40:02.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditCustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\EditCustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditCustomerWindow.xaml.cs",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\EditCustomerWindow.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:35:06.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditCustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\EditCustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditCustomerWindow.xaml",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\EditCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T01:35:03.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\BusinessObject\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Customer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\BusinessObject\\Customer.cs",
+              "RelativeToolTip": "BusinessObject\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:34:34.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T03:32:51.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\BusinessObject\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\BookingReservation.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\BusinessObject\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObject\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:32:30.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwGMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:31:58.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditRoomWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditRoomWindow.xaml",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\EditRoomWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditRoomWindow.xaml",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\EditRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T16:54:58.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\EditProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\EditProfileWindow.xaml.cs",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\EditProfileWindow.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA5wDoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:40:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\AdminWindow.xaml",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T17:48:54.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiNguyenMinhQuanWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\FPT\\CN7\\1_PRN221\\Assignment\\LaiNguyenMinhQuan_NET1701_A01\\LaiNguyenMinhQuanWPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "LaiNguyenMinhQuanWPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:46:17.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

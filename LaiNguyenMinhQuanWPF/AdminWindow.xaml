@@ -1,0 +1,63 @@
+﻿<Window x:Class="LaiNguyenMinhQuanWPF.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LaiNguyenMinhQuanWPF"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="870" Width="800">
+    <Grid x:Name="WindowAdmin" Loaded="Load">
+        <Label x:Name="lbCustomerList" Content="Customer List" HorizontalAlignment="Left" Margin="29,89,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="lbRoomList" Content="Room Information List" HorizontalAlignment="Left" Margin="405,89,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="lbTotal" Content="Total:" HorizontalAlignment="Left" Margin="545,428,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="lbStart" Content="Start Day" HorizontalAlignment="Left" Margin="29,428,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="lbEnd_Day" Content="End Day" HorizontalAlignment="Left" Margin="288,428,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <ListView x:Name="lvCustomer" ItemsSource="{Binding CustomerList}" Margin="29,115,402,552" SelectionMode="Single" IsSynchronizedWithCurrentItem="False" SelectionChanged="lvCustomer_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Customer ID" DisplayMemberBinding="{Binding CustomerId}"/>
+                    <GridViewColumn Header="Customer Full Name" DisplayMemberBinding="{Binding CustomerFullName}"/>
+                    <GridViewColumn Header="Telephone" DisplayMemberBinding="{Binding Telephone}"/>
+                    <GridViewColumn Header="Email Address" DisplayMemberBinding="{Binding EmailAddress}"/>
+                    <GridViewColumn Header="Customer Birthday" DisplayMemberBinding="{Binding CustomerBirthday}"/>
+                    <GridViewColumn Header="Customer Status" DisplayMemberBinding="{Binding CustomerStatus}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="lvRoomInfo" ItemsSource="{Binding RoomInfoList}" Margin="405,115,26,552" SelectionMode="Single" IsSynchronizedWithCurrentItem="False" SelectionChanged="lvRoom_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Room ID" DisplayMemberBinding="{Binding RoomId}"/>
+                    <GridViewColumn Header="Room Number" DisplayMemberBinding="{Binding RoomNumber}"/>
+                    <GridViewColumn Header="Room Detail Description" DisplayMemberBinding="{Binding RoomDetailDescription}"/>
+                    <GridViewColumn Header="Room Max Capacity" DisplayMemberBinding="{Binding RoomMaxCapacity}"/>
+                    <GridViewColumn Header="Room Type" DisplayMemberBinding="{Binding RoomType.RoomTypeName}"/>
+                    <GridViewColumn Header="Room Status" DisplayMemberBinding="{Binding RoomStatus}"/>
+                    <GridViewColumn Header="Room Price Per Day" DisplayMemberBinding="{Binding RoomPricePerDay}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="lbTitle" Content="ADMIN WINDOW" HorizontalAlignment="Left" Margin="249,22,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Arial" FontSize="38"/>
+        <ListView x:Name="lvBookingStatistic" ItemsSource="{Binding BookingHistoryList}" Margin="29,458,32,51" IsSynchronizedWithCurrentItem="False">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Booking Reservation ID" DisplayMemberBinding="{Binding BookingReservationId}"/>
+                    <GridViewColumn Header="Booking Date" DisplayMemberBinding="{Binding BookingDate}"/>
+                    <GridViewColumn Header="Total Price" DisplayMemberBinding="{Binding TotalPrice}"/>
+                    <GridViewColumn Header="Customer" DisplayMemberBinding="{Binding CustomerId}"/>
+                    <GridViewColumn Header="Booking Status" DisplayMemberBinding="{Binding BookingStatus}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="lbStatisticSection" Content="Please choose start day, end day to make a statistic" HorizontalAlignment="Left" Margin="29,402,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+        <Button x:Name="btnCreateRoom" Content="Create Room" HorizontalAlignment="Left" Margin="408,352,0,0" VerticalAlignment="Top" Click="btnCreateRoom_Click" Width="103"/>
+        <Button x:Name="btnUpdateRoom" Content="Update Room" HorizontalAlignment="Left" Margin="538,352,0,0" VerticalAlignment="Top" Click="btnUpdateRoom_Click" Width="103"/>
+        <Button x:Name="btnDeleteCustomer" Content="Delete Customer" HorizontalAlignment="Left" Margin="288,352,0,0" VerticalAlignment="Top" Click="btnDeleteCustomer_Click" Width="103"/>
+        <Button x:Name="btnLogOut" Content="Log Out" HorizontalAlignment="Left" Margin="718,74,0,0" VerticalAlignment="Top" Width="50" Click="btnLogOut_Click"/>
+        <DatePicker x:Name="dpStart" HorizontalAlignment="Left" Margin="104,428,0,0" VerticalAlignment="Top" Width="170" SelectedDateChanged="dpStart_SelectedDateChanged"/>
+        <DatePicker x:Name="dpEnd" HorizontalAlignment="Left" Margin="356,428,0,0" VerticalAlignment="Top" Width="170" SelectedDateChanged="dpEnd_SelectedDateChanged"/>
+        <Button x:Name="btnCreateCustomer" Content="Create Customer" HorizontalAlignment="Left" Margin="31,352,0,0" VerticalAlignment="Top" Width="103" Click="btnCreateCustomer_Click"/>
+        <Button x:Name="btnUpdateCustomer" Content="Update Customer" HorizontalAlignment="Left" Margin="158,352,0,0" VerticalAlignment="Top" Click="btnUpdateCustomer_Click" Width="103"/>
+        <Button x:Name="btnDeleteRoom" Content="Delete Room" HorizontalAlignment="Left" Margin="665,352,0,0" VerticalAlignment="Top" Click="btnDeleteRoom_Click" Width="103"/>
+    </Grid>
+</Window>

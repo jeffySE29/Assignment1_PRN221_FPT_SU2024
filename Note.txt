@@ -1,0 +1,8 @@
+bài này em đọc chưa kĩ đề nên có làm thêm 1 cái 
+chức năng cho customer thuê phòng nữa.
+
+Nhưng mà cái database script nó bị lỗi tạo mới booking reservation
+bị trùng ID với ID nó không để tự tăng nên em có sửa lại cái database
+script.
+
+Có gì thầy chạy cái database script em gửi kèm cho đúng nha.
